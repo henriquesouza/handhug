@@ -12,12 +12,18 @@ HandHug is a private social media platform meant to encourage offline socializat
 
 **Statistics**: get anonymous numbers about community engagement on and offline.
 
+**Integrations**: native integration with third-party services for greater convenience.
+
+**AI features**: summarization and agentic moderation.
+
 
 ## Stack
 
 - Python 3.13
-- Django 6.1
+- FastAPI 0.141
 - PostgreSQL 16
+- pytest 9.1
+- LangChain
 - Docker
 - Kubernetes
 - RabbitMQ
@@ -25,4 +31,4 @@ HandHug is a private social media platform meant to encourage offline socializat
 - Terraform
 - Cognito
 - SonarQube
-- Floci (AWS simulation)
+- Ministack (AWS simulation)
